@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5aeb1c70090dbba6c6a401d9ea04ff6c5ebef9ae4a2a363d25a8ed40a23f868
-size 365
+
+{
+    "embeddings": [
+      {
+        "tensorName": "Bert Encodings",
+        "tensorShape": [
+          3072
+        ],
+        "tensorPath": "https://media.githubusercontent.com/media/dominicHalo/playground/main/output2.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/dominicHalo/playground/main/metalabel2.tsv"
+       
+      }
+    ]
+  }
